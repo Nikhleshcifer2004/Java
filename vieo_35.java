@@ -13,6 +13,7 @@ public class vieo_35 {
             }
             System.out.println();
         }
+    
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
@@ -20,10 +21,8 @@ public class vieo_35 {
         int n = sc.nextInt();
         pattern1(n);
 
-    
     multiplication(7);
-        
-
+    
     }
     
 }
